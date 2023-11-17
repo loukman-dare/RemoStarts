@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/projectTravel/static/css/main.e8a3a47c.css",
+    "main.js": "/projectTravel/static/js/main.e4289e1f.js",
+    "static/js/787.8a220983.chunk.js": "/projectTravel/static/js/787.8a220983.chunk.js",
+    "static/media/slider3.png": "/projectTravel/static/media/slider3.198ea0f8f49970f144bd.png",
+    "static/media/slider2.png": "/projectTravel/static/media/slider2.f0be93aedbaf1341cf72.png",
+    "static/media/slider1.png": "/projectTravel/static/media/slider1.a9718ea085796c9f5ad1.png",
+    "static/media/Slider.png": "/projectTravel/static/media/Slider.e58c0be0e9247d0f6b79.png",
+    "static/media/Map.png": "/projectTravel/static/media/Map.6971080579d497532bd2.png",
+    "static/media/Patagonia Card Image.png": "/projectTravel/static/media/Patagonia Card Image.9aa910a8343a46c21c77.png",
+    "static/media/Iceland card image.png": "/projectTravel/static/media/Iceland card image.9b7ffb91fcfc1a7bdf79.png",
+    "static/media/Dubai card image.png": "/projectTravel/static/media/Dubai card image.b36e63be769687bf1cd3.png",
+    "static/media/Italy card image.png": "/projectTravel/static/media/Italy card image.aaf12a4fa12629ec96ed.png",
+    "static/media/image 5 (1).png": "/projectTravel/static/media/image 5 (1).f7ebcfba058be7a47fb1.png",
+    "static/media/image 5.png": "/projectTravel/static/media/image 5.fa7c1193fca5ff1368a7.png",
+    "static/media/amico.png": "/projectTravel/static/media/amico.468feb8a05c8429dc3d9.png",
+    "static/media/unsplash_go2Z8RFJGw4.png": "/projectTravel/static/media/unsplash_go2Z8RFJGw4.2bb762bbc56fc50cd8a6.png",
+    "index.html": "/projectTravel/index.html",
+    "static/media/play video.svg": "/projectTravel/static/media/play video.16ecb205408a978ee6321f928665ad16.svg",
+    "static/media/Vector.svg": "/projectTravel/static/media/Vector.b9336aead0ea472c98d990a87d057c03.svg",
+    "main.e8a3a47c.css.map": "/projectTravel/static/css/main.e8a3a47c.css.map",
+    "main.e4289e1f.js.map": "/projectTravel/static/js/main.e4289e1f.js.map",
+    "787.8a220983.chunk.js.map": "/projectTravel/static/js/787.8a220983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a3a47c.css",
+    "static/js/main.e4289e1f.js"
+  ]
+}
