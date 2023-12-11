@@ -24,7 +24,7 @@ function Header() {
         </div>
         <div className={`nav-bar col-7 col-md-8 ${listClicked?`mobile-list`:`none`}`}>
             <div className='links m-auto'>
-                <NavLink to="/" >Home</NavLink>
+                <NavLink to="/RemoStarts" >Home</NavLink>
                 <NavLink to="/ourproject">Our Project</NavLink>
                 <NavLink to="/ourproess">Our Process</NavLink>
                 <NavLink to="/careers">Careers</NavLink>

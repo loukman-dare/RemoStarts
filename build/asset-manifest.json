@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RemoStarts/static/css/main.7fd87662.css",
-    "main.js": "/RemoStarts/static/js/main.561426fe.js",
+    "main.js": "/RemoStarts/static/js/main.e03efffd.js",
     "static/js/787.76d8a484.chunk.js": "/RemoStarts/static/js/787.76d8a484.chunk.js",
     "static/media/unsplash_M0AWNxnLaMw.png": "/RemoStarts/static/media/unsplash_M0AWNxnLaMw.5f835831e93499745e2a.png",
     "static/media/AdobeStock_170801444 1.png": "/RemoStarts/static/media/AdobeStock_170801444 1.9f6c3bc378d8f7e3bfc1.png",
@@ -48,11 +48,11 @@
     "static/media/globe.svg": "/RemoStarts/static/media/globe.8b0ce6da5fc17d12d85a577b8ca1b40e.svg",
     "index.html": "/RemoStarts/index.html",
     "main.7fd87662.css.map": "/RemoStarts/static/css/main.7fd87662.css.map",
-    "main.561426fe.js.map": "/RemoStarts/static/js/main.561426fe.js.map",
+    "main.e03efffd.js.map": "/RemoStarts/static/js/main.e03efffd.js.map",
     "787.76d8a484.chunk.js.map": "/RemoStarts/static/js/787.76d8a484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd87662.css",
-    "static/js/main.561426fe.js"
+    "static/js/main.e03efffd.js"
   ]
 }
