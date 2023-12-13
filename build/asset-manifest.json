@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RemoStarts/static/css/main.7fd87662.css",
-    "main.js": "/RemoStarts/static/js/main.e03efffd.js",
+    "main.css": "/RemoStarts/static/css/main.543ceff4.css",
+    "main.js": "/RemoStarts/static/js/main.82ff22b0.js",
     "static/js/787.76d8a484.chunk.js": "/RemoStarts/static/js/787.76d8a484.chunk.js",
     "static/media/unsplash_M0AWNxnLaMw.png": "/RemoStarts/static/media/unsplash_M0AWNxnLaMw.5f835831e93499745e2a.png",
     "static/media/AdobeStock_170801444 1.png": "/RemoStarts/static/media/AdobeStock_170801444 1.9f6c3bc378d8f7e3bfc1.png",
@@ -36,23 +36,23 @@
     "static/media/menu.png": "/RemoStarts/static/media/menu.a9c7d6daa7ce3334bd78.png",
     "static/media/des.png": "/RemoStarts/static/media/des.78eb153d4925175cd057.png",
     "static/media/Ellipse 1 (1).png": "/RemoStarts/static/media/Ellipse 1 (1).124b1db762ff9d4564e5.png",
-    "static/media/gaming remote (1).svg": "/RemoStarts/static/media/gaming remote (1).a696d60a337982152f8faf8db088a6c5.svg",
+    "static/media/gaming remote (1).svg": "/RemoStarts/static/media/gaming remote (1).3871003a28ecdc25220201f22f20c64f.svg",
     "static/media/LOGO (1).png": "/RemoStarts/static/media/LOGO (1).adbc044cd3e976ee21b5.png",
     "static/media/Абв.png": "/RemoStarts/static/media/Абв.e177caf9032e9ad8c6b9.png",
     "static/media/Letters.png": "/RemoStarts/static/media/Letters.bf185db0beb33f69e13e.png",
-    "static/media/Manager.svg": "/RemoStarts/static/media/Manager.abc80e80430b6ccda66b16a80f006e21.svg",
-    "static/media/Design.svg": "/RemoStarts/static/media/Design.537b83838f10045040590074f06f8c62.svg",
-    "static/media/Development.svg": "/RemoStarts/static/media/Development.0b661af75b4725327cd72df38b314c39.svg",
-    "static/media/comma.svg": "/RemoStarts/static/media/comma.ead00d86919b749085d2.svg",
-    "static/media/fluent_comma-24-regular.svg": "/RemoStarts/static/media/fluent_comma-24-regular.cc365037159936f3ce47.svg",
-    "static/media/globe.svg": "/RemoStarts/static/media/globe.8b0ce6da5fc17d12d85a577b8ca1b40e.svg",
+    "static/media/Manager.svg": "/RemoStarts/static/media/Manager.0591a7cd933e2fbaf78e7583509eedf8.svg",
+    "static/media/Design.svg": "/RemoStarts/static/media/Design.b15fa241ec421f7780b8cafa7043be1e.svg",
+    "static/media/Development.svg": "/RemoStarts/static/media/Development.00b67e4255259e51814daea0c2780771.svg",
+    "static/media/comma.svg": "/RemoStarts/static/media/comma.1ec1fa9cf6247555df11.svg",
+    "static/media/fluent_comma-24-regular.svg": "/RemoStarts/static/media/fluent_comma-24-regular.547322972000faa574d4.svg",
+    "static/media/globe.svg": "/RemoStarts/static/media/globe.2467b4f150d52e5f43fe39083d96d520.svg",
     "index.html": "/RemoStarts/index.html",
-    "main.7fd87662.css.map": "/RemoStarts/static/css/main.7fd87662.css.map",
-    "main.e03efffd.js.map": "/RemoStarts/static/js/main.e03efffd.js.map",
+    "main.543ceff4.css.map": "/RemoStarts/static/css/main.543ceff4.css.map",
+    "main.82ff22b0.js.map": "/RemoStarts/static/js/main.82ff22b0.js.map",
     "787.76d8a484.chunk.js.map": "/RemoStarts/static/js/787.76d8a484.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fd87662.css",
-    "static/js/main.e03efffd.js"
+    "static/css/main.543ceff4.css",
+    "static/js/main.82ff22b0.js"
   ]
 }
